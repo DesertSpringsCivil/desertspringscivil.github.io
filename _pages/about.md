@@ -43,7 +43,6 @@ He founded Desert Springs Civil Engineering PLLC to bring personalized, senior-l
 
 ### Licensing
 - **Idaho PE** #P-17002
-- **Indiana PE** #PE12100107
 
 </div>
 <div markdown="1">

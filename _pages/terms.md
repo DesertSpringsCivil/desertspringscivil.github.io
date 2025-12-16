@@ -24,7 +24,6 @@ By accessing or using the website of Desert Springs Civil Engineering PLLC ("Com
 Desert Springs Civil Engineering PLLC is a Professional Limited Liability Company organized under the laws of the State of Idaho. Michael Yoder, PE, is licensed to practice professional engineering in:
 
 - **Idaho** — PE License #P-17002
-- **Indiana** — PE License #PE12100107
 
 Engineering services are provided only in jurisdictions where properly licensed. All engineering documents are prepared under the responsible charge of a licensed Professional Engineer and bear the appropriate seal and signature as required by state law.
 
