@@ -8,16 +8,14 @@ toc_label: "On This Page"
 toc_icon: "user"
 ---
 
-## Michael Yoder, PE
-
-**Founder & Principal Engineer**
+## Our Team
 
 <div style="display: flex; gap: 2rem; align-items: flex-start; flex-wrap: wrap;">
 <div style="flex: 1; min-width: 280px;" markdown="1">
 
-Michael is a licensed Professional Engineer with over 14 years of civil engineering experience spanning federal infrastructure, transportation consulting, and regional land development. He holds a B.S. in Civil Engineering from Purdue University (2010).
+Desert Springs Civil Engineering brings over 14 years of civil engineering experience spanning federal infrastructure, transportation consulting, and regional land development. Our team holds PE licensure in Idaho and degrees from accredited engineering programs.
 
-He founded Desert Springs Civil Engineering PLLC to bring personalized, senior-level engineering services to Idaho's Treasure Valley—combining the technical depth of a large firm with the responsiveness of a small practice.
+We founded Desert Springs to bring personalized, senior-level engineering services to Idaho's Treasure Valley—combining the technical depth of a large firm with the responsiveness of a small practice.
 
 </div>
 <div style="flex: 1; min-width: 280px;" markdown="1">
@@ -210,11 +208,11 @@ Project types and sectors we've supported throughout our career:
 
 The civil engineering industry is in the middle of its biggest shift since the move from hand drafting to CAD. BIM, IFC, and digital twins aren't buzzwords—they're the future of how infrastructure gets designed, built, and maintained.
 
-We're not waiting for that future. Michael is actively building it.
+We're not waiting for that future. We're actively building it.
 
-**[Saikei Civil](https://saikeicivil.org)** is open-source IFC 4.3 infrastructure design software that Michael develops. It's 30,000+ lines of production code, 107+ tests passing, and proof that we understand where the industry is headed.
+**[Saikei Civil](https://saikeicivil.org)** is open-source IFC 4.3 infrastructure design software that we develop. It's 30,000+ lines of production code, 107+ tests passing, and proof that we understand where the industry is headed.
 
-When you work with Desert Springs, you're working with an engineer who doesn't just use the tools—he builds them. That depth of technical understanding shows up in every project.
+When you work with Desert Springs, you're working with engineers who don't just use the tools—we build them. That depth of technical understanding shows up in every project.
 
 [Explore Saikei Civil](https://saikeicivil.org){: .btn .btn--inverse}
 

@@ -167,9 +167,9 @@ intro:
 
 ## Building for the Future of Infrastructure
 
-The industry is shifting from 2D CAD to BIM and digital twins. We're not waiting around—Michael is actively developing [Saikei Civil](https://saikeicivil.org), open-source IFC 4.3 infrastructure design software.
+The industry is shifting from 2D CAD to BIM and digital twins. We're not waiting around—we're actively developing [Saikei Civil](https://saikeicivil.org), open-source IFC 4.3 infrastructure design software.
 
-**What this means for your project:** Designs that are interoperable from day one. Data that flows through the asset lifecycle. An engineer who understands modern infrastructure delivery because he's building the tools himself.
+**What this means for your project:** Designs that are interoperable from day one. Data that flows through the asset lifecycle. Engineers who understand modern infrastructure delivery because we're building the tools ourselves.
 
 [Learn About Saikei Civil](https://saikeicivil.org){: .btn .btn--inverse}
 
@@ -222,8 +222,8 @@ The industry is shifting from 2D CAD to BIM and digital twins. We're not waiting
     <p>From construction inspection to federal water infrastructure. Projects of every scale inform every decision.</p>
   </div>
   <div class="why-box">
-    <h4>Local Knowledge</h4>
-    <p>10+ years serving the Treasure Valley. We know the agencies, the soils, the water, and the people.</p>
+    <h4>Future-Ready</h4>
+    <p>Leading the shift to BIM and digital twins. We're not just following the industry—we're building the tools that will define it.</p>
   </div>
 </div>
 
@@ -263,7 +263,7 @@ The industry is shifting from 2D CAD to BIM and digital twins. We're not waiting
 
 <div class="testimonial-section">
   <blockquote>
-    "Michael delivered exactly what we needed—on time and without the runaround we've experienced with larger firms. He understood our site constraints immediately and kept us informed throughout the permitting process."
+    "Desert Springs delivered exactly what we needed—on time and without the runaround we've experienced with larger firms. They understood our site constraints immediately and kept us informed throughout the permitting process."
   </blockquote>
   <p class="testimonial-author">— Land Development Client, Ada County</p>
 </div>
@@ -274,13 +274,13 @@ The industry is shifting from 2D CAD to BIM and digital twins. We're not waiting
 
 ## About the Firm
 
-**Desert Springs Civil Engineering PLLC** is a civil and water engineering firm based in Meridian, Idaho, founded by Michael Yoder, PE.
+**Desert Springs Civil Engineering PLLC** is a civil and water engineering firm based in Meridian, Idaho.
 
-Michael spent 14+ years at firms of every size—from regional shops to national consultancies to federal agencies—before starting Desert Springs. The mission: deliver the expertise of a large firm with the responsiveness of a small practice.
+Our team brings 14+ years of experience at firms of every size—from regional shops to national consultancies to federal agencies. The mission: deliver the expertise of a large firm with the responsiveness of a small practice.
 
-He's also building [Saikei Civil](https://saikeicivil.org), open-source BIM software for infrastructure—part of his commitment to advancing digital delivery in civil engineering.
+We're also building [Saikei Civil](https://saikeicivil.org), open-source BIM software for infrastructure—part of our commitment to advancing digital delivery in civil engineering.
 
-[Meet Michael Yoder, PE](/about/){: .btn .btn--inverse .btn--large}
+[About Us](/about/){: .btn .btn--inverse .btn--large}
 [Contact Us](/contact/){: .btn .btn--inverse .btn--large}
 
 ---

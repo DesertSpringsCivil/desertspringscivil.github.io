@@ -212,7 +212,7 @@ The infrastructure industry is moving from 2D drawings to 3D models, digital twi
 <li>Designs ready for digital twin integration</li>
 <li>Open standards that protect your investment</li>
 </ul>
-<p style="margin-top: 0.75em;">Michael is the developer of <a href="https://saikeicivil.org"><strong>Saikei Civil</strong></a>, open-source IFC 4.3 infrastructure design software—proof that we're not just talking about the future of infrastructure, we're building it.</p>
+<p style="margin-top: 0.75em;">We're the developers of <a href="https://saikeicivil.org"><strong>Saikei Civil</strong></a>, open-source IFC 4.3 infrastructure design software—proof that we're not just talking about the future of infrastructure, we're building it.</p>
 </div>
 </details>
 
