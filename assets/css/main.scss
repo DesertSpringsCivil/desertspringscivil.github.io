@@ -270,6 +270,41 @@ form button:hover {
   color: $text-muted;
 }
 
+/* Tighten up typography - reduce "large print" feel */
+html {
+  font-size: 15px;  /* Down from default 16px */
+}
+
+.page__content {
+  font-size: 0.95em;
+}
+
+.page__title {
+  font-size: 1.8em;
+}
+
+.archive__item-title {
+  font-size: 1em;
+}
+
+.archive__item-excerpt {
+  font-size: 0.9em;
+}
+
+/* Hero text sizing */
+.page__hero--overlay .page__title {
+  font-size: 2.2em;
+}
+
+.page__hero--overlay .page__lead {
+  font-size: 1.1em;
+}
+
+/* Credentials bar */
+.page__hero--overlay .archive__item-excerpt {
+  font-size: 0.95em;
+}
+
 /* Footer Legal Section */
 .page__footer-legal {
   text-align: center;

@@ -15,34 +15,60 @@ excerpt: >
 
 intro:
   - excerpt: '**14+ Years Experience** · **PE Licensed (Idaho)** · **Bureau of Reclamation · HDR** · **Treasure Valley Based**'
-
-feature_row:
-  - image_path: /assets/images/feature-water.svg
-    alt: "Water Engineering"
-    title: "Water Engineering"
-    excerpt: "Stormwater management, hydrology studies, irrigation design, and FEMA floodplain permitting."
-    url: "/water-engineering/"
-    btn_label: "Learn More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/feature-civil.svg
-    alt: "Civil Design"
-    title: "Civil Design"
-    excerpt: "Grading, earthwork analysis, erosion control, and construction administration."
-    url: "/civil-design/"
-    btn_label: "Learn More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/feature-software.svg
-    alt: "Software Development"
-    title: "Software Development"
-    excerpt: "Open-source infrastructure design tools built on open standards. Home of Saikei Civil."
-    url: "/software/"
-    btn_label: "Learn More"
-    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row %}
+<style>
+.services-intro {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+  max-width: 1000px;
+  margin: 0 auto 2rem;
+  padding: 0 1rem;
+}
+.services-intro .service-card {
+  text-align: center;
+  padding: 1.5rem 1rem;
+  border-bottom: 3px solid #2e7d32;
+}
+.services-intro .service-card h3 {
+  margin: 0 0 0.5rem 0;
+  font-size: 1.1rem;
+}
+.services-intro .service-card h3 a {
+  color: #1b5e20;
+  text-decoration: none;
+}
+.services-intro .service-card h3 a:hover {
+  color: #2e7d32;
+}
+.services-intro .service-card p {
+  margin: 0;
+  font-size: 0.9rem;
+  color: #5d6d5d;
+  line-height: 1.5;
+}
+@media (max-width: 768px) {
+  .services-intro { grid-template-columns: 1fr; }
+}
+</style>
+
+<div class="services-intro">
+  <div class="service-card">
+    <h3><a href="/water-engineering/">Water Engineering</a></h3>
+    <p>Stormwater, hydrology, irrigation, and FEMA floodplain permitting</p>
+  </div>
+  <div class="service-card">
+    <h3><a href="/civil-design/">Civil Design</a></h3>
+    <p>Grading, earthwork analysis, erosion control, and peer review</p>
+  </div>
+  <div class="service-card">
+    <h3><a href="/software/">Software</a></h3>
+    <p>Open-source infrastructure tools. Home of Saikei Civil.</p>
+  </div>
+</div>
 
 ---
 
