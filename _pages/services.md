@@ -75,7 +75,7 @@ Desert Springs Civil Engineering provides comprehensive civil and water engineer
 <li>Detention/retention pond design</li>
 <li>Storm drain systems</li>
 <li>Low impact development (LID) solutions</li>
-<li>MS4 permit compliance</li>
+<li>MS4 (Municipal Stormwater) permit compliance</li>
 </ul>
 </div>
 </details>
@@ -98,7 +98,7 @@ Desert Springs Civil Engineering provides comprehensive civil and water engineer
 <div class="details-content">
 <p>Navigate federal floodplain regulations with expert guidance.</p>
 <ul>
-<li>LOMR/CLOMR applications</li>
+<li>LOMR/CLOMR applications (Letter of Map Revision)</li>
 <li>Floodplain development permits</li>
 <li>No-rise certifications</li>
 <li>Floodway analysis</li>
@@ -171,8 +171,8 @@ Desert Springs Civil Engineering provides comprehensive civil and water engineer
 <div class="details-content">
 <p>Protect waterways and meet environmental regulations.</p>
 <ul>
-<li>SWPPP development</li>
-<li>BMP selection and design</li>
+<li>SWPPP development (Stormwater Pollution Prevention Plan)</li>
+<li>BMP selection and design (Best Management Practices)</li>
 <li>Stream buffer compliance</li>
 <li>Construction sequencing</li>
 </ul>

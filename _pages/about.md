@@ -17,15 +17,15 @@ toc_icon: "user"
 
 Michael is a licensed Professional Engineer with over 14 years of civil engineering experience spanning federal infrastructure, transportation consulting, and regional land development. He holds a B.S. in Civil Engineering from Purdue University (2010).
 
-He founded Desert Springs Civil Engineering PLLC to bring personalized, senior-level engineering services to Idaho's Treasure Valley—combining the technical depth of a large firm with the responsiveness of a sole practitioner.
+He founded Desert Springs Civil Engineering PLLC to bring personalized, senior-level engineering services to Idaho's Treasure Valley—combining the technical depth of a large firm with the responsiveness of a small practice.
 
 </div>
 <div style="flex: 1; min-width: 280px;" markdown="1">
 
 | Experience | Focus |
 |------------|-------|
-| **Bureau of Reclamation** | Federal water infrastructure, dam safety |
-| **HDR** | Transportation consulting, major corridors |
+| **Federal Agencies** | Water infrastructure, dam safety |
+| **National Consultancies** | Transportation consulting, major corridors |
 | **Regional Firms** | Site civil, water resources, construction inspection |
 
 </div>
@@ -65,16 +65,133 @@ He founded Desert Springs Civil Engineering PLLC to bring personalized, senior-l
 
 ### Capacity & Approach
 
-We operate as a nimble, senior-led practice with the ability to scale for larger projects through established relationships with trusted subconsultants and teaming partners. This model delivers:
+Desert Springs is a senior-led practice focused on delivering quality engineering with clear communication. We scale through established relationships with trusted subconsultants and teaming partners when projects require it.
 
-- **Senior-level attention** on every project—no hand-offs to junior staff
-- **Competitive rates** without large-firm overhead
-- **Flexibility** to team on larger pursuits or serve as subconsultant to prime contractors
-- **Quick turnaround** for time-sensitive projects
+What you get:
+
+- **Principal involvement** — Senior-level attention on every project
+- **Scalable capacity** — Teaming arrangements for multi-discipline or high-volume work
+- **Competitive rates** — Right-sized for your project without large-firm overhead
+- **Quick turnaround** — Direct communication means faster decisions
+
+**Typical project scope**: Site civil packages, stormwater design, FEMA permitting, feasibility studies, peer review. We handle projects from single-lot residential to multi-phase commercial developments.
 
 ### Insurance & Compliance
 
 Desert Springs Civil Engineering maintains professional liability (E&O) insurance appropriate for project scope. Coverage details and certificates of insurance are available upon request for contract purposes.
+
+---
+
+## Firm Experience
+
+<style>
+.project-examples {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+  margin: 1rem 0 1.5rem;
+}
+.project-examples .project-item {
+  background: #f9fdf9;
+  border: 1px solid #c8e6c9;
+  border-radius: 4px;
+  padding: 0.75rem 1rem;
+}
+.project-examples .project-item strong {
+  color: #1b5e20;
+  font-size: 0.9rem;
+}
+.project-examples .project-item span {
+  display: block;
+  font-size: 0.8rem;
+  color: #5d6d5d;
+  margin-top: 0.25rem;
+}
+@media (max-width: 600px) {
+  .project-examples { grid-template-columns: 1fr; }
+}
+.experience-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
+  margin: 1.5rem 0;
+}
+.experience-grid .exp-card {
+  background: #fff;
+  border: 1px solid #c8e6c9;
+  border-radius: 6px;
+  padding: 1.25rem;
+  border-top: 3px solid #2e7d32;
+}
+.experience-grid .exp-card h4 {
+  margin: 0 0 0.5rem 0;
+  color: #1b5e20;
+  font-size: 1rem;
+}
+.experience-grid .exp-card p {
+  margin: 0;
+  font-size: 0.85rem;
+  color: #5d6d5d;
+  line-height: 1.5;
+}
+.experience-grid .exp-card .exp-type {
+  display: inline-block;
+  background: #e8f5e9;
+  color: #2e7d32;
+  font-size: 0.7rem;
+  font-weight: 600;
+  padding: 0.2rem 0.5rem;
+  border-radius: 3px;
+  margin-bottom: 0.5rem;
+  text-transform: uppercase;
+}
+@media (max-width: 768px) {
+  .experience-grid { grid-template-columns: 1fr; }
+}
+</style>
+
+Project types and sectors we've supported throughout our career:
+
+<div class="experience-grid">
+  <div class="exp-card">
+    <span class="exp-type">Federal</span>
+    <h4>Dam Safety & Water Infrastructure</h4>
+    <p>Hydraulic analysis, spillway design, and dam modification projects for federal water infrastructure.</p>
+  </div>
+  <div class="exp-card">
+    <span class="exp-type">Transportation</span>
+    <h4>Highway & Corridor Design</h4>
+    <p>Major transportation corridors including roadway design, drainage, and construction documentation.</p>
+  </div>
+  <div class="exp-card">
+    <span class="exp-type">Land Development</span>
+    <h4>Site Civil & Stormwater</h4>
+    <p>Commercial, residential, and mixed-use development projects from feasibility through construction.</p>
+  </div>
+</div>
+
+### Representative Projects
+
+<div class="project-examples">
+  <div class="project-item">
+    <strong>Anderson Ranch Dam Raise</strong>
+    <span>Hydraulic analysis and design for federal dam modification</span>
+  </div>
+  <div class="project-item">
+    <strong>I-84 Railroad Overpass</strong>
+    <span>Highway corridor design and construction documentation</span>
+  </div>
+  <div class="project-item">
+    <strong>City of Nampa Improvements</strong>
+    <span>Construction inspection and municipal infrastructure</span>
+  </div>
+  <div class="project-item">
+    <strong>Oregon ADA Program</strong>
+    <span>Statewide accessibility improvement coordination</span>
+  </div>
+</div>
+
+<p style="font-size: 0.85rem; color: #5d6d5d; font-style: italic;">Project experience spans multiple employers over 14+ years. References available upon request.</p>
 
 ---
 
@@ -89,7 +206,7 @@ Desert Springs Civil brings real project experience to every line of code. When 
 ### Our Values
 
 - **Technical Excellence** — Deep expertise applied to every project
-- **Direct Communication** — You work with the engineer, not a project coordinator
+- **Direct Communication** — Clear, responsive communication throughout your project
 - **Modern Methods** — Leveraging technology where it adds value
 - **Open Standards** — Committed to interoperability and data accessibility
 

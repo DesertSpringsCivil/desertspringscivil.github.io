@@ -16,7 +16,7 @@ Ready to discuss your project? Fill out the form below or reach out directly.
 
 ### Request a Consultation
 
-<form action="https://formspree.io/f/xnneywka" method="POST" style="max-width: 500px;">
+<form id="contact-form" action="https://formspree.io/f/xnneywka" method="POST" style="max-width: 500px;">
   <div style="margin-bottom: 1rem;">
     <label for="name" style="display: block; margin-bottom: 0.25rem; font-weight: 600; color: #1b5e20;">Name *</label>
     <input type="text" id="name" name="name" required style="width: 100%; padding: 0.75rem; border: 1px solid #c8e6c9; border-radius: 4px; font-size: 1rem;">
@@ -50,10 +50,23 @@ Ready to discuss your project? Fill out the form below or reach out directly.
     <label for="message" style="display: block; margin-bottom: 0.25rem; font-weight: 600; color: #1b5e20;">Project Details *</label>
     <textarea id="message" name="message" rows="5" required placeholder="Tell us about your project, timeline, and any specific requirements..." style="width: 100%; padding: 0.75rem; border: 1px solid #c8e6c9; border-radius: 4px; font-size: 1rem; resize: vertical;"></textarea>
   </div>
+  <input type="hidden" name="_next" value="https://desertspringscivil.com/contact/?submitted=true">
   <button type="submit" style="background: #2e7d32; color: #fff; padding: 0.875rem 2rem; border: none; border-radius: 4px; font-size: 1rem; font-weight: 600; cursor: pointer; transition: background 0.2s;">Send Message</button>
 </form>
 
+<div id="form-success" style="display: none; background: #e8f5e9; border: 1px solid #4caf50; border-radius: 4px; padding: 1.25rem; margin-top: 1rem;">
+  <strong style="color: #1b5e20;">Message Sent!</strong>
+  <p style="margin: 0.5rem 0 0 0; color: #2d3e2d; font-size: 0.95rem;">Thank you for reaching out. We'll respond within one business day.</p>
+</div>
+
 <p style="margin-top: 1rem; font-size: 0.85rem; color: #5d6d5d;">* Required fields. We typically respond within one business day.</p>
+
+<script>
+if (window.location.search.includes('submitted=true')) {
+  document.getElementById('contact-form').style.display = 'none';
+  document.getElementById('form-success').style.display = 'block';
+}
+</script>
 
 </div>
 <div style="flex: 1; min-width: 280px;" markdown="1">

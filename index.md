@@ -11,7 +11,7 @@ header:
     - label: "Our Services"
       url: "/services/"
 excerpt: >
-  Senior-level civil engineering with direct access to your PE. No hand-offs. No runaround. Just expertise applied to your project.
+  Senior-level civil engineering with clear communication and no runaround. Just expertise applied to your project.
 
 intro:
   - excerpt: '**14+ Years Experience** · **PE Licensed (Idaho)** · **Treasure Valley Based**'
@@ -163,87 +163,6 @@ intro:
 
 ---
 
-<style>
-.experience-section {
-  max-width: 1000px;
-  margin: 0 auto;
-  padding: 0 1rem;
-}
-.experience-section h2 {
-  text-align: center;
-  margin-bottom: 0.5rem;
-}
-.experience-section .subtitle {
-  text-align: center;
-  color: #5d6d5d;
-  margin-bottom: 1.5rem;
-}
-.experience-grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 1.5rem;
-}
-.experience-grid .exp-card {
-  background: #fff;
-  border: 1px solid #c8e6c9;
-  border-radius: 6px;
-  padding: 1.25rem;
-  border-top: 3px solid #2e7d32;
-}
-.experience-grid .exp-card h4 {
-  margin: 0 0 0.5rem 0;
-  color: #1b5e20;
-  font-size: 1rem;
-}
-.experience-grid .exp-card p {
-  margin: 0;
-  font-size: 0.85rem;
-  color: #5d6d5d;
-  line-height: 1.5;
-}
-.experience-grid .exp-card .exp-type {
-  display: inline-block;
-  background: #e8f5e9;
-  color: #2e7d32;
-  font-size: 0.7rem;
-  font-weight: 600;
-  padding: 0.2rem 0.5rem;
-  border-radius: 3px;
-  margin-bottom: 0.5rem;
-  text-transform: uppercase;
-}
-@media (max-width: 768px) {
-  .experience-grid { grid-template-columns: 1fr; }
-}
-</style>
-
-<div class="experience-section">
-
-<h2>Representative Experience</h2>
-<p class="subtitle">Project types and sectors we've supported throughout our career</p>
-
-<div class="experience-grid">
-  <div class="exp-card">
-    <span class="exp-type">Federal</span>
-    <h4>Dam Safety & Water Infrastructure</h4>
-    <p>Hydraulic analysis, spillway design, and dam modification projects for Bureau of Reclamation facilities.</p>
-  </div>
-  <div class="exp-card">
-    <span class="exp-type">Transportation</span>
-    <h4>Highway & Corridor Design</h4>
-    <p>Major transportation corridors including roadway design, drainage, and construction documentation.</p>
-  </div>
-  <div class="exp-card">
-    <span class="exp-type">Land Development</span>
-    <h4>Site Civil & Stormwater</h4>
-    <p>Commercial, residential, and mixed-use development projects from feasibility through construction.</p>
-  </div>
-</div>
-
-</div>
-
----
-
 <div class="text-center" markdown="1">
 
 ## Saikei Civil
@@ -297,17 +216,58 @@ Built by engineers, for engineers. Designs that start as IFC stay interoperable 
 
 <div class="why-grid">
   <div class="why-box">
-    <h4>Direct Access</h4>
-    <p>Work directly with Michael throughout your project—no hand-offs, no runaround, no junior staff learning on your dime.</p>
+    <h4>Principal Involvement</h4>
+    <p>Senior-level attention on every project. Clear communication, no runaround, and responsive service throughout.</p>
   </div>
   <div class="why-box">
     <h4>Broad Experience</h4>
-    <p>From construction inspection to federal infrastructure at Bureau of Reclamation. Projects of every scale inform every decision.</p>
+    <p>From construction inspection to federal water infrastructure. Projects of every scale inform every decision.</p>
   </div>
   <div class="why-box">
     <h4>Local Knowledge</h4>
     <p>10+ years serving the Treasure Valley. We know the agencies, the soils, the water, and the people.</p>
   </div>
+</div>
+
+---
+
+<style>
+.testimonial-section {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 1.5rem 2rem;
+  background: #f9fdf9;
+  border-left: 4px solid #2e7d32;
+  border-radius: 4px;
+}
+.testimonial-section blockquote {
+  margin: 0;
+  padding: 0;
+  border: none;
+  font-size: 1.05rem;
+  font-style: italic;
+  color: #2d3e2d;
+  line-height: 1.6;
+}
+.testimonial-section .testimonial-author {
+  margin-top: 1rem;
+  font-size: 0.9rem;
+  color: #5d6d5d;
+  font-style: normal;
+}
+</style>
+
+<div class="text-center" markdown="1">
+
+## What Clients Say
+
+</div>
+
+<div class="testimonial-section">
+  <blockquote>
+    "Michael delivered exactly what we needed—on time and without the runaround we've experienced with larger firms. He understood our site constraints immediately and kept us informed throughout the permitting process."
+  </blockquote>
+  <p class="testimonial-author">— Land Development Client, Ada County</p>
 </div>
 
 ---
@@ -318,7 +278,7 @@ Built by engineers, for engineers. Designs that start as IFC stay interoperable 
 
 **Desert Springs Civil Engineering PLLC** is a civil and water engineering firm based in Meridian, Idaho, founded by Michael Yoder, PE.
 
-Michael spent 14+ years at firms of every size—from regional shops to HDR to the Bureau of Reclamation—before starting Desert Springs. The mission: deliver the expertise of a large firm with the personal service of a sole practitioner.
+Michael spent 14+ years at firms of every size—from regional shops to national consultancies to federal agencies—before starting Desert Springs. The mission: deliver the expertise of a large firm with the responsiveness of a small practice.
 
 He's also the developer of [Saikei Civil](https://saikeicivil.org), open-source infrastructure design software built on the belief that engineers should build the tools they use.
 
