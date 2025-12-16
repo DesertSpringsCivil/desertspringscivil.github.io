@@ -111,10 +111,6 @@ Professional civil and water engineering for projects of all sizes.
     <h4>Well & Septic Systems</h4>
     <p>Residential and rural property systems</p>
   </div>
-  <div class="service-box">
-    <h4>Construction Administration</h4>
-    <p>Project monitoring and quality control</p>
-  </div>
 </div>
 
 [View All Services](/services/){: .btn .btn--primary .btn--large}

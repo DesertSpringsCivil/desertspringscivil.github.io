@@ -99,15 +99,6 @@ Independent quality control and design verification.
 - Constructability review
 - Value engineering
 
-### Construction Administration
-
-Project oversight from groundbreaking to completion.
-
-- Shop drawing review
-- Site observation
-- Pay application review
-- Substantial completion inspection
-
 ---
 
 ## Software Development

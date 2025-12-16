@@ -60,19 +60,6 @@ Independent quality control and design verification.
 
 ---
 
-## Construction Administration
-
-Project oversight from groundbreaking to completion.
-
-- Shop drawing review
-- Site observation and inspection
-- RFI response
-- Pay application review
-- Substantial completion inspection
-- Punch list development
-
----
-
 <div class="text-center" markdown="1">
 
 ## Ready to Start?
