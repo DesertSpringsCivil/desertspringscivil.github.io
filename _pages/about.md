@@ -6,6 +6,9 @@ author_profile: false
 toc: true
 toc_label: "On This Page"
 toc_icon: "user"
+header:
+  overlay_image: /assets/images/IMG_5988.jpg
+  overlay_filter: 0.35
 ---
 
 ## Michael Yoder, PE

@@ -6,6 +6,9 @@ author_profile: false
 toc: true
 toc_label: "Civil Services"
 toc_icon: "drafting-compass"
+header:
+  overlay_image: /assets/images/IMG_8759.jpg
+  overlay_filter: 0.3
 ---
 
 From feasibility through construction, Desert Springs Civil Engineering delivers practical civil design solutions backed by 14+ years of experience across projects of every scale.

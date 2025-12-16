@@ -3,8 +3,8 @@ layout: splash
 permalink: /
 hidden: true
 header:
-  overlay_color: "#1b5e20"
-  overlay_filter: "0.5"
+  overlay_image: /assets/images/IMG_3909.jpg
+  overlay_filter: 0.4
   actions:
     - label: "Start a Project"
       url: "/contact/"
