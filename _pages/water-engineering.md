@@ -6,9 +6,6 @@ author_profile: false
 toc: true
 toc_label: "Water Services"
 toc_icon: "water"
-header:
-  overlay_image: /assets/images/IMG_7675.jpg
-  overlay_filter: 0.3
 ---
 
 Water is the foundation of civil infrastructure. Desert Springs Civil Engineering brings 14+ years of experience in stormwater, irrigation, and floodplain engineering to every project.
