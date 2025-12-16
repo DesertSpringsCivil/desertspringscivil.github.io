@@ -56,10 +56,10 @@ Ready to discuss your project? Fill out the form below or reach out directly.
 
 <div id="form-success" style="display: none; background: #e8f5e9; border: 1px solid #4caf50; border-radius: 4px; padding: 1.25rem; margin-top: 1rem;">
   <strong style="color: #1b5e20;">Message Sent!</strong>
-  <p style="margin: 0.5rem 0 0 0; color: #2d3e2d; font-size: 0.95rem;">Thank you for reaching out. We'll respond within one business day.</p>
+  <p style="margin: 0.5rem 0 0 0; color: #2d3e2d; font-size: 1rem;">Thank you for reaching out. We'll respond within one business day.</p>
 </div>
 
-<p style="margin-top: 1rem; font-size: 0.85rem; color: #5d6d5d;">* Required fields. We typically respond within one business day.</p>
+<p style="margin-top: 1rem; font-size: 1rem; color: #3d4d3d;">* Required fields. We typically respond within one business day.</p>
 
 <script>
 if (window.location.search.includes('submitted=true')) {
@@ -92,7 +92,7 @@ if (window.location.search.includes('submitted=true')) {
 1. **Initial Response** — We'll acknowledge your inquiry within one business day
 2. **Discovery Call** — Brief conversation to understand your project
 3. **Proposal** — Clear scope of work and fee estimate
-4. **Engagement** — Direct access to Michael throughout your project
+4. **Engagement** — Direct communication with our team throughout your project
 
 </div>
 </div>

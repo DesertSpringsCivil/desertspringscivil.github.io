@@ -46,8 +46,8 @@ intro:
 }
 .services-intro .service-card p {
   margin: 0;
-  font-size: 0.9rem;
-  color: #5d6d5d;
+  font-size: 1rem;
+  color: #3d4d3d;
   line-height: 1.5;
 }
 @media (max-width: 768px) {
@@ -83,7 +83,7 @@ intro:
   margin-bottom: 0.25rem;
 }
 .services-section .subtitle {
-  color: #5d6d5d;
+  color: #3d4d3d;
   margin-bottom: 1.5rem;
 }
 .service-grid {
@@ -100,14 +100,14 @@ intro:
 }
 .service-grid .service-box h4 {
   margin: 0 0 0.25rem 0;
-  font-size: 0.95rem;
+  font-size: 1rem;
   color: #1b5e20;
 }
 .service-grid .service-box p {
   margin: 0;
-  font-size: 0.8rem;
-  color: #5d6d5d;
-  line-height: 1.4;
+  font-size: 0.9rem;
+  color: #3d4d3d;
+  line-height: 1.5;
 }
 @media (max-width: 900px) {
   .service-grid { grid-template-columns: repeat(2, 1fr); }
@@ -202,8 +202,8 @@ The industry is shifting from 2D CAD to BIM and digital twins. We're not waiting
 }
 .why-grid .why-box p {
   margin: 0;
-  font-size: 0.95rem;
-  color: #555;
+  font-size: 1rem;
+  color: #3d4d3d;
 }
 @media (max-width: 768px) {
   .why-grid {
@@ -249,8 +249,8 @@ The industry is shifting from 2D CAD to BIM and digital twins. We're not waiting
 }
 .testimonial-section .testimonial-author {
   margin-top: 1rem;
-  font-size: 0.9rem;
-  color: #5d6d5d;
+  font-size: 1rem;
+  color: #3d4d3d;
   font-style: normal;
 }
 </style>

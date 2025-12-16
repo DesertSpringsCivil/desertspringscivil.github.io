@@ -12,8 +12,8 @@ $accent-color: #4caf50;         /* Accent green for links */
 $background-light: #f1f8f4;     /* Light green background */
 $background-lighter: #e8f5e9;   /* Lighter green background */
 $text-color: #2d3e2d;           /* Dark green-gray text */
-$text-muted: #5d6d5d;           /* Medium green-gray */
-$text-light: #7d8c7d;           /* Soft green-gray */
+$text-muted: #3d4d3d;           /* Medium green-gray - darker for readability */
+$text-light: #4d5d4d;           /* Soft green-gray - darker for readability */
 $border-color: #c8e6c9;         /* Light border green */
 $border-medium: #a5d6a7;        /* Medium border green */
 $border-accent: #81c784;        /* Accent border green */
@@ -294,13 +294,13 @@ form button:hover {
   color: $text-muted;
 }
 
-/* Tighten up typography - reduce "large print" feel */
+/* Typography - readable sizing */
 html {
-  font-size: 17px;
+  font-size: 18px;
 }
 
 .page__content {
-  font-size: 0.95em;
+  font-size: 1em;
 }
 
 .page__title {

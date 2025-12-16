@@ -97,12 +97,12 @@ Desert Springs Civil Engineering maintains professional liability (E&O) insuranc
 }
 .project-examples .project-item strong {
   color: #1b5e20;
-  font-size: 0.9rem;
+  font-size: 1rem;
 }
 .project-examples .project-item span {
   display: block;
-  font-size: 0.8rem;
-  color: #5d6d5d;
+  font-size: 0.9rem;
+  color: #3d4d3d;
   margin-top: 0.25rem;
 }
 @media (max-width: 600px) {
@@ -128,15 +128,15 @@ Desert Springs Civil Engineering maintains professional liability (E&O) insuranc
 }
 .experience-grid .exp-card p {
   margin: 0;
-  font-size: 0.85rem;
-  color: #5d6d5d;
+  font-size: 0.95rem;
+  color: #3d4d3d;
   line-height: 1.5;
 }
 .experience-grid .exp-card .exp-type {
   display: inline-block;
   background: #e8f5e9;
   color: #2e7d32;
-  font-size: 0.7rem;
+  font-size: 0.75rem;
   font-weight: 600;
   padding: 0.2rem 0.5rem;
   border-radius: 3px;
@@ -189,7 +189,7 @@ Project types and sectors we've supported throughout our career:
   </div>
 </div>
 
-<p style="font-size: 0.85rem; color: #5d6d5d; font-style: italic;">Project experience spans multiple employers over 14+ years. References available upon request.</p>
+<p style="font-size: 1rem; color: #3d4d3d; font-style: italic;">Project experience spans multiple employers over 14+ years. References available upon request.</p>
 
 ---
 

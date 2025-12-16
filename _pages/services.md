@@ -48,8 +48,8 @@ Desert Springs Civil Engineering provides comprehensive civil and water engineer
 }
 .service-accordion .details-content p {
   margin: 0 0 0.5em 0;
-  color: #5d6d5d;
-  font-size: 0.9em;
+  color: #3d4d3d;
+  font-size: 1em;
 }
 .service-accordion .details-content ul {
   margin: 0;
@@ -57,7 +57,7 @@ Desert Springs Civil Engineering provides comprehensive civil and water engineer
 }
 .service-accordion .details-content li {
   margin-bottom: 0.25em;
-  font-size: 0.9em;
+  font-size: 1em;
 }
 </style>
 
