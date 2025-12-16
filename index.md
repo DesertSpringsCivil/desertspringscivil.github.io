@@ -229,47 +229,6 @@ The industry is shifting from 2D CAD to BIM and digital twins. We're not waiting
 
 ---
 
-<style>
-.testimonial-section {
-  max-width: 700px;
-  margin: 0 auto;
-  padding: 1.5rem 2rem;
-  background: #f9fdf9;
-  border-left: 4px solid #2e7d32;
-  border-radius: 4px;
-}
-.testimonial-section blockquote {
-  margin: 0;
-  padding: 0;
-  border: none;
-  font-size: 1.05rem;
-  font-style: italic;
-  color: #2d3e2d;
-  line-height: 1.6;
-}
-.testimonial-section .testimonial-author {
-  margin-top: 1rem;
-  font-size: 1rem;
-  color: #3d4d3d;
-  font-style: normal;
-}
-</style>
-
-<div class="text-center" markdown="1">
-
-## What Clients Say
-
-</div>
-
-<div class="testimonial-section">
-  <blockquote>
-    "Desert Springs delivered exactly what we needed—on time and without the runaround we've experienced with larger firms. They understood our site constraints immediately and kept us informed throughout the permitting process."
-  </blockquote>
-  <p class="testimonial-author">— Land Development Client, Ada County</p>
-</div>
-
----
-
 <div class="text-center" markdown="1">
 
 ## About the Firm
