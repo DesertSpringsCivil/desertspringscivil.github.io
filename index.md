@@ -14,7 +14,7 @@ excerpt: >
   Senior-level civil engineering with direct access to your PE. No hand-offs. No runaround. Just expertise applied to your project.
 
 intro:
-  - excerpt: '**14+ Years Experience** · **PE Licensed (ID, IN)** · **Bureau of Reclamation · HDR** · **Treasure Valley Based**'
+  - excerpt: '**14+ Years Experience** · **PE Licensed (Idaho)** · **Bureau of Reclamation · HDR** · **Treasure Valley Based**'
 
 feature_row:
   - image_path: /assets/images/feature-water.svg
