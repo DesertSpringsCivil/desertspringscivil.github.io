@@ -228,3 +228,39 @@ tr:nth-child(even) {
 .toc .active a {
   color: $primary-dark;
 }
+
+/* Footer Legal Section */
+.page__footer-legal {
+  text-align: center;
+  padding-top: 1.5em;
+  margin-top: 1.5em;
+  border-top: 1px solid rgba(255, 255, 255, 0.2);
+  font-size: 0.85em;
+  line-height: 1.6;
+
+  p {
+    margin-bottom: 0.75em;
+  }
+
+  .footer-license {
+    font-size: 0.9em;
+  }
+
+  .footer-eeo {
+    font-style: italic;
+    color: rgba(255, 255, 255, 0.7);
+  }
+
+  .footer-copyright {
+    font-size: 0.8em;
+    color: rgba(255, 255, 255, 0.6);
+
+    a {
+      color: rgba(255, 255, 255, 0.7);
+
+      &:hover {
+        color: #fff;
+      }
+    }
+  }
+}
