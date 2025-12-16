@@ -220,6 +220,19 @@ The infrastructure industry is moving from 2D drawings to 3D models, digital twi
 
 ---
 
+## Fees & Engagement
+
+We believe in straightforward pricing with no surprises. Every project receives a detailed proposal outlining scope, deliverables, and fees before work begins.
+
+- **Initial consultations are free** — Let's discuss your project with no obligation
+- **Clear proposals** — You'll know exactly what you're getting and what it costs
+- **Flexible arrangements** — Hourly, fixed-fee, or retainer based on project needs
+- **Competitive rates** — Senior-level expertise without large-firm overhead
+
+Ready to discuss your project? [Get in touch](/contact/) and we'll provide a straightforward estimate.
+
+---
+
 ## Service Area
 
 Based in Meridian, Idaho, we primarily serve:
