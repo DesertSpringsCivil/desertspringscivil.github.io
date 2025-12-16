@@ -57,16 +57,16 @@ intro:
 
 <div class="services-intro">
   <div class="service-card">
-    <h3><a href="/water-engineering/">Water Engineering</a></h3>
+    <h3><a href="/services/">Water Engineering</a></h3>
     <p>Stormwater, hydrology, irrigation, and FEMA floodplain permitting</p>
   </div>
   <div class="service-card">
-    <h3><a href="/civil-design/">Civil Design</a></h3>
+    <h3><a href="/services/">Civil Design</a></h3>
     <p>Grading, earthwork analysis, erosion control, and peer review</p>
   </div>
   <div class="service-card">
-    <h3><a href="/software/">Software</a></h3>
-    <p>Open-source infrastructure tools. Home of Saikei Civil.</p>
+    <h3><a href="/services/">BIM-Ready Delivery</a></h3>
+    <p>Designs built for the future of infrastructure—IFC, digital twins, and open standards</p>
   </div>
 </div>
 
@@ -165,15 +165,15 @@ intro:
 
 <div class="text-center" markdown="1">
 
-## Saikei Civil
+## Building for the Future of Infrastructure
 
-Our flagship open-source project: native IFC 4.3 infrastructure design software.
+The industry is shifting from 2D CAD to BIM and digital twins—and we're not just following, we're helping lead the way.
 
-**30,000+ lines of production code** · **107+ tests passing** · **GPL v3 licensed**
+Michael is the developer of [Saikei Civil](https://saikeicivil.org), open-source IFC 4.3 infrastructure design software. This isn't a side project—it's proof that we understand where digital delivery is headed and are actively building the tools to get there.
 
-Built by engineers, for engineers. Designs that start as IFC stay interoperable throughout the asset lifecycle.
+**What this means for your project:** Designs that are interoperable from day one. Data that flows through the asset lifecycle. An engineer who speaks the language of modern infrastructure delivery.
 
-[Explore Saikei Civil](https://saikeicivil.org){: .btn .btn--primary .btn--large}
+[Learn About Saikei Civil](https://saikeicivil.org){: .btn .btn--inverse}
 
 </div>
 
@@ -280,13 +280,12 @@ Built by engineers, for engineers. Designs that start as IFC stay interoperable 
 
 Michael spent 14+ years at firms of every size—from regional shops to national consultancies to federal agencies—before starting Desert Springs. The mission: deliver the expertise of a large firm with the responsiveness of a small practice.
 
-He's also the developer of [Saikei Civil](https://saikeicivil.org), open-source infrastructure design software built on the belief that engineers should build the tools they use.
+He's also building [Saikei Civil](https://saikeicivil.org), open-source BIM software for infrastructure—part of his commitment to advancing digital delivery in civil engineering.
 
 [Meet Michael Yoder, PE](/about/){: .btn .btn--inverse .btn--large}
 [Contact Us](/contact/){: .btn .btn--inverse .btn--large}
 
 ---
 
-*A Desert Springs Civil Engineering project · Home of [Saikei Civil](https://saikeicivil.org)*
 
 </div>

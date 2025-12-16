@@ -197,35 +197,26 @@ Project types and sectors we've supported throughout our career:
 
 ## What Makes Us Different
 
-**Engineers building tools for engineers.**
-
-Most civil engineering software is built by software companies, then sold to engineers. We're doing it the other way around.
-
-Desert Springs Civil brings real project experience to every line of code. When our software calculates a vertical curve or exports an alignment, it's built by someone who's staked alignments in the field and reviewed shop drawings at 2am.
-
 ### Our Values
 
 - **Technical Excellence** — Deep expertise applied to every project
 - **Direct Communication** — Clear, responsive communication throughout your project
-- **Modern Methods** — Leveraging technology where it adds value
+- **Forward-Thinking** — Embracing BIM, digital twins, and open standards
 - **Open Standards** — Committed to interoperability and data accessibility
 
 ---
 
-## Saikei Civil
+## Leading on Digital Delivery
 
-Our flagship open-source project: **native IFC 4.3 infrastructure design software** for roads, alignments, and corridors.
+The civil engineering industry is in the middle of its biggest shift since the move from hand drafting to CAD. BIM, IFC, and digital twins aren't buzzwords—they're the future of how infrastructure gets designed, built, and maintained.
 
-| Metric | Value |
-|--------|-------|
-| **Lines of Code** | 30,000+ |
-| **Test Coverage** | 107+ tests passing |
-| **License** | GPL v3 (free and open source) |
-| **Standard** | IFC 4.3 (ISO 16739-1:2024) |
+We're not waiting for that future. Michael is actively building it.
 
-Saikei Civil represents our commitment to open standards and the belief that infrastructure data should be interoperable and accessible throughout the asset lifecycle.
+**[Saikei Civil](https://saikeicivil.org)** is open-source IFC 4.3 infrastructure design software that Michael develops. It's 30,000+ lines of production code, 107+ tests passing, and proof that we understand where the industry is headed.
 
-[Explore Saikei Civil](https://saikeicivil.org){: .btn .btn--primary .btn--large}
+When you work with Desert Springs, you're working with an engineer who doesn't just use the tools—he builds them. That depth of technical understanding shows up in every project.
+
+[Explore Saikei Civil](https://saikeicivil.org){: .btn .btn--inverse}
 
 ---
 

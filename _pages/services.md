@@ -196,23 +196,23 @@ Desert Springs Civil Engineering provides comprehensive civil and water engineer
 
 ---
 
-## Software Development
+## BIM & Digital Delivery
+
+The infrastructure industry is moving from 2D drawings to 3D models, digital twins, and data-rich deliverables. We're positioned to help you make that transition.
 
 <div class="service-accordion">
 
 <details open>
-<summary>Saikei Civil</summary>
+<summary>What This Means for Your Project</summary>
 <div class="details-content">
-<p>Our flagship open-source project: <strong>native IFC 4.3 infrastructure design software</strong>.</p>
-<p>Built on Blender and IfcOpenShell, Saikei Civil creates infrastructure designs that are interoperable from day one.</p>
+<p>Whether you need traditional CAD deliverables or are ready for BIM-based workflows, we can meet you where you are—and help you move forward.</p>
 <ul>
-<li>Horizontal alignments (PI-based design)</li>
-<li>Vertical profiles (PVI-based, parabolic curves)</li>
-<li>Cross-sections (AASHTO-compliant templates)</li>
-<li>Georeferencing (PyProj, EPSG codes)</li>
-<li>Native IFC 4.3 export</li>
+<li>IFC 4.3 infrastructure models (roads, alignments, corridors)</li>
+<li>Interoperable data that works across platforms</li>
+<li>Designs ready for digital twin integration</li>
+<li>Open standards that protect your investment</li>
 </ul>
-<p style="margin-top: 0.75em;"><a href="https://saikeicivil.org" class="btn btn--primary">Explore Saikei Civil</a></p>
+<p style="margin-top: 0.75em;">Michael is the developer of <a href="https://saikeicivil.org"><strong>Saikei Civil</strong></a>, open-source IFC 4.3 infrastructure design software—proof that we're not just talking about the future of infrastructure, we're building it.</p>
 </div>
 </details>
 
