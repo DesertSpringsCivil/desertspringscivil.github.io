@@ -21,14 +21,23 @@ feature_row:
     alt: "Water Engineering"
     title: "Water Engineering"
     excerpt: "Stormwater management, hydrology studies, irrigation design, and FEMA floodplain permitting."
+    url: "/water-engineering/"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/feature-civil.svg
     alt: "Civil Design"
     title: "Civil Design"
     excerpt: "Grading, earthwork analysis, erosion control, and construction administration."
+    url: "/civil-design/"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/feature-software.svg
     alt: "Software Development"
     title: "Software Development"
     excerpt: "Open-source infrastructure design tools built on open standards. Home of Saikei Civil."
+    url: "/software/"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
