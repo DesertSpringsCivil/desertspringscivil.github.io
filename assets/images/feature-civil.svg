@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <rect fill="#fef9e7" width="400" height="300"/>
+  <polygon points="100,200 200,120 300,200" fill="#d4ac0d" opacity="0.6"/>
+  <rect x="80" y="200" width="240" height="40" fill="#873600" opacity="0.5"/>
+  <line x1="50" y1="240" x2="350" y2="240" stroke="#2c3e50" stroke-width="3"/>
+  <circle cx="150" cy="180" r="8" fill="#2c3e50"/>
+  <circle cx="250" cy="180" r="8" fill="#2c3e50"/>
+  <text x="200" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#2c3e50">Civil Design</text>
+</svg>

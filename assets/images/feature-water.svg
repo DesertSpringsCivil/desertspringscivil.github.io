@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <rect fill="#e8f4f8" width="400" height="300"/>
+  <circle cx="200" cy="130" r="60" fill="#3498db" opacity="0.8"/>
+  <ellipse cx="200" cy="200" rx="100" ry="30" fill="#3498db" opacity="0.4"/>
+  <path d="M160 100 Q200 60 240 100" stroke="#2980b9" stroke-width="4" fill="none"/>
+  <text x="200" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#2c3e50">Water Engineering</text>
+</svg>

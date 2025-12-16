@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <rect fill="#eafaf1" width="400" height="300"/>
+  <rect x="100" y="80" width="200" height="130" rx="8" fill="#2d5a27" opacity="0.8"/>
+  <rect x="110" y="90" width="180" height="100" rx="4" fill="#1a3318"/>
+  <text x="200" y="130" text-anchor="middle" font-family="monospace" font-size="14" fill="#27ae60">&lt;IFC 4.3&gt;</text>
+  <text x="200" y="155" text-anchor="middle" font-family="monospace" font-size="12" fill="#2ecc71">native authoring</text>
+  <text x="200" y="175" text-anchor="middle" font-family="monospace" font-size="14" fill="#27ae60">&lt;/IFC&gt;</text>
+  <text x="200" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#2c3e50">Software Development</text>
+</svg>
