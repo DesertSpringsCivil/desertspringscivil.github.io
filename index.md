@@ -46,74 +46,94 @@ feature_row:
 
 ---
 
-<div class="text-center" markdown="1">
-
-## Engineering Services
-
-Professional civil and water engineering for projects of all sizes.
-
-</div>
-
 <style>
+.services-section {
+  text-align: center;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+.services-section h2 {
+  margin-bottom: 0.25rem;
+}
+.services-section .subtitle {
+  color: #5d6d5d;
+  margin-bottom: 1.5rem;
+}
 .service-grid {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 2rem;
-  max-width: 900px;
-  margin: 0 auto;
-  padding: 1rem;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem;
+  margin-bottom: 1.5rem;
 }
 .service-grid .service-box {
-  text-align: left;
+  background: #f1f8f4;
+  border-radius: 6px;
+  padding: 1rem;
+  border-left: 3px solid #4caf50;
 }
 .service-grid .service-box h4 {
-  margin-bottom: 0.5rem;
-  font-size: 1.1rem;
+  margin: 0 0 0.25rem 0;
+  font-size: 0.95rem;
+  color: #1b5e20;
 }
 .service-grid .service-box p {
   margin: 0;
-  font-size: 0.95rem;
-  color: #555;
+  font-size: 0.8rem;
+  color: #5d6d5d;
+  line-height: 1.4;
 }
-@media (max-width: 600px) {
-  .service-grid {
-    grid-template-columns: 1fr;
-  }
+@media (max-width: 900px) {
+  .service-grid { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 500px) {
+  .service-grid { grid-template-columns: 1fr; }
 }
 </style>
+
+<div class="services-section">
+
+<h2>Engineering Services</h2>
+<p class="subtitle">Professional civil and water engineering for projects of all sizes.</p>
 
 <div class="service-grid">
   <div class="service-box">
     <h4>Feasibility Studies</h4>
-    <p>Project practicality assessments and due diligence</p>
+    <p>Project assessments & due diligence</p>
   </div>
   <div class="service-box">
-    <h4>Stormwater Management</h4>
-    <p>Drainage design and water management solutions</p>
+    <h4>Stormwater</h4>
+    <p>Drainage design & water management</p>
   </div>
   <div class="service-box">
-    <h4>Hydrology/Hydraulic Studies</h4>
-    <p>Site analysis for water impacts and flood modeling</p>
+    <h4>Hydrology/Hydraulics</h4>
+    <p>Water impacts & flood modeling</p>
   </div>
   <div class="service-box">
     <h4>Grading & Earthwork</h4>
-    <p>Cut/fill calculations and site design</p>
+    <p>Cut/fill & site design</p>
   </div>
   <div class="service-box">
     <h4>Irrigation Design</h4>
-    <p>Gravity and pressure system optimization</p>
+    <p>Gravity & pressure systems</p>
   </div>
   <div class="service-box">
-    <h4>FEMA Floodplain Permitting</h4>
-    <p>Regulatory compliance and navigation</p>
+    <h4>FEMA Floodplain</h4>
+    <p>Permitting & compliance</p>
   </div>
   <div class="service-box">
-    <h4>Well & Septic Systems</h4>
-    <p>Residential and rural property systems</p>
+    <h4>Well & Septic</h4>
+    <p>Rural property systems</p>
+  </div>
+  <div class="service-box">
+    <h4>Third-Party QC</h4>
+    <p>Peer review & plan checks</p>
   </div>
 </div>
 
 [View All Services](/services/){: .btn .btn--primary .btn--large}
+
+</div>
 
 ---
 
