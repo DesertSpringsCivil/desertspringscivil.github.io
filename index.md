@@ -157,7 +157,7 @@ intro:
   </div>
 </div>
 
-[View All Services](/services/){: .btn .btn--primary .btn--large}
+<a href="/services/" class="btn btn--primary btn--large">View All Services</a>
 
 </div>
 

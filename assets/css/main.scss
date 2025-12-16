@@ -229,41 +229,41 @@ tr:nth-child(even) {
   color: $primary-dark;
 }
 
-/* Tighter heading spacing */
+/* Balanced heading spacing */
 .page__content {
   h2 {
-    margin-top: 1em;
-    margin-bottom: 0.3em;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
     padding-top: 0;
   }
 
   h3 {
-    margin-top: 0.75em;
-    margin-bottom: 0.2em;
+    margin-top: 1.25em;
+    margin-bottom: 0.4em;
   }
 
   h4 {
-    margin-top: 0.5em;
-    margin-bottom: 0.15em;
+    margin-top: 1em;
+    margin-bottom: 0.3em;
   }
 
   p {
-    margin-bottom: 0.5em;
+    margin-bottom: 0.75em;
   }
 
   ul, ol {
-    margin-top: 0.2em;
-    margin-bottom: 0.5em;
+    margin-top: 0.4em;
+    margin-bottom: 0.75em;
   }
 
   li {
-    margin-bottom: 0.15em;
+    margin-bottom: 0.25em;
   }
 }
 
 /* Better section dividers */
 hr {
-  margin: 1em 0;
+  margin: 1.5em 0;
 }
 
 /* Form styling */
