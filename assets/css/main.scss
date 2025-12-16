@@ -229,17 +229,36 @@ tr:nth-child(even) {
   color: $primary-dark;
 }
 
-/* Improved spacing and polish */
+/* Tighter heading spacing */
 .page__content {
   h2 {
-    margin-top: 2em;
-    padding-top: 1em;
+    margin-top: 1.25em;
+    margin-bottom: 0.5em;
+    padding-top: 0;
+  }
+
+  h3 {
+    margin-top: 1em;
+    margin-bottom: 0.4em;
+  }
+
+  h4 {
+    margin-top: 0.75em;
+    margin-bottom: 0.3em;
+  }
+
+  p {
+    margin-bottom: 0.75em;
+  }
+
+  ul, ol {
+    margin-bottom: 0.75em;
   }
 }
 
 /* Better section dividers */
 hr {
-  margin: 2.5em 0;
+  margin: 1.5em 0;
 }
 
 /* Form styling */
