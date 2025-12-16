@@ -167,11 +167,9 @@ intro:
 
 ## Building for the Future of Infrastructure
 
-The industry is shifting from 2D CAD to BIM and digital twins—and we're not just following, we're helping lead the way.
+The industry is shifting from 2D CAD to BIM and digital twins. We're not waiting around—Michael is actively developing [Saikei Civil](https://saikeicivil.org), open-source IFC 4.3 infrastructure design software.
 
-Michael is the developer of [Saikei Civil](https://saikeicivil.org), open-source IFC 4.3 infrastructure design software. This isn't a side project—it's proof that we understand where digital delivery is headed and are actively building the tools to get there.
-
-**What this means for your project:** Designs that are interoperable from day one. Data that flows through the asset lifecycle. An engineer who speaks the language of modern infrastructure delivery.
+**What this means for your project:** Designs that are interoperable from day one. Data that flows through the asset lifecycle. An engineer who understands modern infrastructure delivery because he's building the tools himself.
 
 [Learn About Saikei Civil](https://saikeicivil.org){: .btn .btn--inverse}
 
