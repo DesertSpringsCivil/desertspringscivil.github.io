@@ -226,7 +226,7 @@ We believe in straightforward pricing with no surprises. Every project receives 
 
 - **Initial consultations are free** — Let's discuss your project with no obligation
 - **Clear proposals** — You'll know exactly what you're getting and what it costs
-- **Flexible arrangements** — Hourly, fixed-fee, or retainer based on project needs
+- **Flexible arrangements** — Hourly, fixed-fee, or task order based on project needs
 - **Competitive rates** — Senior-level expertise without large-firm overhead
 
 Ready to discuss your project? [Get in touch](/contact/) and we'll provide a straightforward estimate.
