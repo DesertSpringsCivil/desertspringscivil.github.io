@@ -1,0 +1,230 @@
+---
+# Custom styles for Desert Springs Civil Engineering
+---
+
+@charset "utf-8";
+
+/* Desert Springs Brand Colors */
+$primary-color: #2e7d32;        /* Primary green */
+$primary-dark: #1b5e20;         /* Dark green */
+$primary-light: #388e3c;        /* Light primary */
+$accent-color: #4caf50;         /* Accent green for links */
+$background-light: #f1f8f4;     /* Light green background */
+$background-lighter: #e8f5e9;   /* Lighter green background */
+$text-color: #2d3e2d;           /* Dark green-gray text */
+$text-muted: #5d6d5d;           /* Medium green-gray */
+$text-light: #7d8c7d;           /* Soft green-gray */
+$border-color: #c8e6c9;         /* Light border green */
+$border-medium: #a5d6a7;        /* Medium border green */
+$border-accent: #81c784;        /* Accent border green */
+
+/* Override Minimal Mistakes variables */
+$link-color: $accent-color;
+$masthead-link-color: $primary-dark;
+$masthead-link-color-hover: $primary-color;
+$navicon-link-color-hover: $primary-color;
+$footer-background-color: $primary-dark;
+
+/* Import Minimal Mistakes */
+@import "minimal-mistakes/skins/default";
+@import "minimal-mistakes";
+
+/* Custom Desert Springs Styles */
+
+/* Masthead / Navigation */
+.masthead {
+  background: linear-gradient(135deg, $background-light 0%, $background-lighter 100%);
+  border-bottom: 2px solid $border-color;
+}
+
+.site-title {
+  color: $primary-dark !important;
+  font-weight: 600;
+}
+
+.greedy-nav a {
+  color: $primary-dark;
+
+  &:hover {
+    color: $primary-color;
+  }
+}
+
+.greedy-nav .visible-links a:before {
+  background: $primary-color;
+}
+
+/* Hero / Splash page */
+.page__hero--overlay {
+  background-color: $primary-dark;
+
+  &::before {
+    background: linear-gradient(135deg, $primary-color 0%, $primary-dark 50%, $primary-light 100%);
+    opacity: 0.9;
+  }
+}
+
+/* Buttons */
+.btn--primary {
+  background-color: $primary-color;
+
+  &:hover {
+    background-color: $primary-dark;
+  }
+}
+
+.btn--inverse {
+  border-color: $border-accent;
+  color: $primary-dark;
+
+  &:hover {
+    background-color: $primary-color;
+    border-color: $primary-color;
+    color: #fff;
+  }
+}
+
+/* Feature rows */
+.feature__wrapper {
+  border-bottom: 1px solid $border-color;
+  margin-bottom: 2em;
+  padding-bottom: 2em;
+}
+
+.archive__item-title {
+  color: $primary-dark;
+}
+
+/* Links */
+a {
+  color: $accent-color;
+
+  &:hover {
+    color: $primary-dark;
+  }
+}
+
+/* Footer */
+.page__footer {
+  background: linear-gradient(135deg, $primary-dark 0%, darken($primary-dark, 5%) 100%);
+  color: rgba(255, 255, 255, 0.9);
+
+  a {
+    color: rgba(255, 255, 255, 0.8);
+
+    &:hover {
+      color: #fff;
+    }
+  }
+}
+
+.page__footer-follow .social-icons .svg-inline--fa {
+  color: rgba(255, 255, 255, 0.8);
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  color: $primary-dark;
+}
+
+/* Intro / credentials bar */
+.page__hero-caption,
+.archive__subtitle {
+  color: $text-muted;
+}
+
+/* Why grid custom styling */
+.why-grid .why-box h4 {
+  color: $primary-dark !important;
+}
+
+/* Service grid custom styling */
+.service-grid .service-box h4 {
+  color: $primary-dark;
+}
+
+.service-grid .service-box p,
+.why-grid .why-box p {
+  color: $text-muted;
+}
+
+/* Page content */
+.page__content {
+  p, li {
+    color: $text-color;
+  }
+}
+
+/* Horizontal rules */
+hr {
+  border-color: $border-color;
+}
+
+/* Sidebar / Author profile */
+.author__name {
+  color: $primary-dark;
+}
+
+.author__bio {
+  color: $text-muted;
+}
+
+/* Blockquotes */
+blockquote {
+  border-left-color: $primary-color;
+  color: $text-muted;
+}
+
+/* Tables */
+th {
+  background: linear-gradient(135deg, $primary-color 0%, $primary-dark 100%);
+  color: #fff;
+}
+
+tr:nth-child(even) {
+  background-color: $background-light;
+}
+
+/* Selection highlighting */
+::selection {
+  background: $border-medium;
+  color: $primary-dark;
+}
+
+/* Notices / callout boxes */
+.notice--primary {
+  background-color: $background-lighter;
+  border-left: 4px solid $primary-color;
+}
+
+.notice--info {
+  background-color: $background-light;
+  border-left: 4px solid $border-accent;
+}
+
+/* Pagination */
+.pagination--pager {
+  background-color: $primary-color;
+
+  &:hover {
+    background-color: $primary-dark;
+  }
+}
+
+/* Breadcrumbs */
+.breadcrumbs__item a {
+  color: $accent-color;
+}
+
+/* TOC */
+.toc__menu a {
+  color: $text-color;
+
+  &:hover {
+    color: $primary-color;
+  }
+}
+
+.toc .active a {
+  color: $primary-dark;
+}

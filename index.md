@@ -3,8 +3,8 @@ layout: splash
 permalink: /
 hidden: true
 header:
-  overlay_color: "#1a5276"
-  overlay_filter: "0.6"
+  overlay_color: "#1b5e20"
+  overlay_filter: "0.5"
   actions:
     - label: "Contact Us"
       url: "/contact/"
@@ -149,7 +149,7 @@ Built by engineers, for engineers. Designs that start as IFC stay interoperable 
 .why-grid .why-box h4 {
   margin-bottom: 0.5rem;
   font-size: 1.1rem;
-  color: #1a5276;
+  color: #1b5e20;
 }
 .why-grid .why-box p {
   margin: 0;
