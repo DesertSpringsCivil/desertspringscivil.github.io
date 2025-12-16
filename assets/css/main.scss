@@ -229,6 +229,47 @@ tr:nth-child(even) {
   color: $primary-dark;
 }
 
+/* Improved spacing and polish */
+.page__content {
+  h2 {
+    margin-top: 2em;
+    padding-top: 1em;
+  }
+}
+
+/* Better section dividers */
+hr {
+  margin: 2.5em 0;
+}
+
+/* Form styling */
+form input:focus,
+form select:focus,
+form textarea:focus {
+  outline: none;
+  border-color: $primary-color;
+  box-shadow: 0 0 0 2px rgba(46, 125, 50, 0.1);
+}
+
+form button:hover {
+  background: $primary-dark !important;
+}
+
+/* Feature row enhancements */
+.feature__item {
+  margin-bottom: 1.5em;
+
+  .archive__item-title {
+    margin-top: 0.5em;
+  }
+}
+
+/* Better intro excerpt styling */
+.page__lead {
+  font-size: 1.1em;
+  color: $text-muted;
+}
+
 /* Footer Legal Section */
 .page__footer-legal {
   text-align: center;

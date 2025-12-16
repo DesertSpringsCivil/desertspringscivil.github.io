@@ -6,15 +6,15 @@ header:
   overlay_color: "#1b5e20"
   overlay_filter: "0.5"
   actions:
-    - label: "Contact Us"
+    - label: "Start a Project"
       url: "/contact/"
-    - label: "View Services"
+    - label: "Our Services"
       url: "/services/"
 excerpt: >
-  14+ years of civil engineering experience. Direct access to your engineer from start to finish. Serving Idaho's Treasure Valley.
+  Senior-level civil engineering with direct access to your PE. No hand-offs. No runaround. Just expertise applied to your project.
 
 intro:
-  - excerpt: '**PE Licensed (Idaho, Indiana)** · **Bureau of Reclamation · HDR · Regional Firms** · **Treasure Valley Based**'
+  - excerpt: '**14+ Years Experience** · **PE Licensed (ID, IN)** · **Bureau of Reclamation · HDR** · **Treasure Valley Based**'
 
 feature_row:
   - image_path: /assets/images/feature-water.svg
@@ -132,6 +132,87 @@ feature_row:
 </div>
 
 [View All Services](/services/){: .btn .btn--primary .btn--large}
+
+</div>
+
+---
+
+<style>
+.experience-section {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+.experience-section h2 {
+  text-align: center;
+  margin-bottom: 0.5rem;
+}
+.experience-section .subtitle {
+  text-align: center;
+  color: #5d6d5d;
+  margin-bottom: 1.5rem;
+}
+.experience-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
+}
+.experience-grid .exp-card {
+  background: #fff;
+  border: 1px solid #c8e6c9;
+  border-radius: 6px;
+  padding: 1.25rem;
+  border-top: 3px solid #2e7d32;
+}
+.experience-grid .exp-card h4 {
+  margin: 0 0 0.5rem 0;
+  color: #1b5e20;
+  font-size: 1rem;
+}
+.experience-grid .exp-card p {
+  margin: 0;
+  font-size: 0.85rem;
+  color: #5d6d5d;
+  line-height: 1.5;
+}
+.experience-grid .exp-card .exp-type {
+  display: inline-block;
+  background: #e8f5e9;
+  color: #2e7d32;
+  font-size: 0.7rem;
+  font-weight: 600;
+  padding: 0.2rem 0.5rem;
+  border-radius: 3px;
+  margin-bottom: 0.5rem;
+  text-transform: uppercase;
+}
+@media (max-width: 768px) {
+  .experience-grid { grid-template-columns: 1fr; }
+}
+</style>
+
+<div class="experience-section">
+
+<h2>Representative Experience</h2>
+<p class="subtitle">Project types and sectors we've supported throughout our career</p>
+
+<div class="experience-grid">
+  <div class="exp-card">
+    <span class="exp-type">Federal</span>
+    <h4>Dam Safety & Water Infrastructure</h4>
+    <p>Hydraulic analysis, spillway design, and dam modification projects for Bureau of Reclamation facilities.</p>
+  </div>
+  <div class="exp-card">
+    <span class="exp-type">Transportation</span>
+    <h4>Highway & Corridor Design</h4>
+    <p>Major transportation corridors including roadway design, drainage, and construction documentation.</p>
+  </div>
+  <div class="exp-card">
+    <span class="exp-type">Land Development</span>
+    <h4>Site Civil & Stormwater</h4>
+    <p>Commercial, residential, and mixed-use development projects from feasibility through construction.</p>
+  </div>
+</div>
 
 </div>
 
