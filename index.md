@@ -11,7 +11,7 @@ header:
     - label: "Our Services"
       url: "/services/"
 excerpt: >
-  Senior-level civil engineering with clear communication and no runaround. Just expertise applied to your project.
+  Civil and Water Engineering
 
 intro:
   - excerpt: '**14+ Years Experience** · **PE Licensed (Idaho)** · **Treasure Valley Based**'
