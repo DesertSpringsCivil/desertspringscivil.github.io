@@ -63,7 +63,7 @@ We founded Desert Springs to bring personalized engineering services to Idaho's 
 
 ### Capacity & Approach
 
-Desert Springs is a senior-led practice focused on delivering quality engineering with clear communication. We scale through established relationships with trusted subconsultants and teaming partners when projects require it.
+Desert Springs is focused on delivering quality engineering with clear communication. We scale through established relationships with trusted subconsultants and teaming partners when projects require it.
 
 What you get:
 
