@@ -5,7 +5,6 @@ permalink: /services/
 author_profile: false
 ---
 
-Desert Springs Civil Engineering provides comprehensive civil and water engineering services for Idaho's Treasure Valley and beyond.
 
 <style>
 .service-accordion {
