@@ -15,7 +15,7 @@ toc_icon: "user"
 
 Desert Springs Civil Engineering brings over 14 years of civil engineering experience spanning federal infrastructure, transportation consulting, and regional land development. Our team holds PE licensure in Idaho and degrees from accredited engineering programs.
 
-We founded Desert Springs to bring personalized, senior-level engineering services to Idaho's Treasure Valley—combining the technical depth of a large firm with the responsiveness of a small practice.
+We founded Desert Springs to bring personalized engineering services to Idaho's Treasure Valley—combining the technical depth of a large firm with the responsiveness of a small practice.
 
 </div>
 <div style="flex: 1; min-width: 280px;" markdown="1">
