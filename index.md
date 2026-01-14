@@ -12,7 +12,7 @@ header:
       url: "/services/"
 excerpt: >
   
-  Building for the Future of Infrastructure
+  Designing for the Future of Infrastructure
 
 intro:
   - excerpt: '**14+ Years Experience** · **PE Licensed (Idaho)** · **Treasure Valley Based**'
