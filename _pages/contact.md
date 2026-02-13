@@ -75,7 +75,7 @@ if (window.location.search.includes('submitted=true')) {
 
 | | |
 |---|---|
-| **Phone** | [574-707-2494](tel:574-707-2494) |
+| **Phone** | [208-837-2364](tel:208-837-2364) |
 | **Email** | [myoder@desertspringscivil.com](mailto:myoder@desertspringscivil.com) |
 | **Location** | Meridian, Idaho |
 | **Hours** | Monday–Friday, 8am–5pm MT |
@@ -133,6 +133,6 @@ We also provide remote services for projects throughout Idaho, the Pacific North
 **Prefer to reach out directly?**
 
 [Email Us](mailto:myoder@desertspringscivil.com){: .btn .btn--primary .btn--large}
-[Call 574-707-2494](tel:574-707-2494){: .btn .btn--inverse .btn--large}
+[Call 208-837-2364](tel:208-837-2364){: .btn .btn--inverse .btn--large}
 
 </div>
