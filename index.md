@@ -59,16 +59,16 @@ excerpt: >
 
 <div class="dsce" markdown="1">
 
-## What this is now
+## Who we are
 {: #now }
 
-Desert Springs Civil Engineering PLLC is an Idaho professional engineering practice, licensed and holding a current certificate of authorization. It is also the entity under which my software and applied research work is held.
+Desert Springs Civil Engineering PLLC is an Idaho professional engineering practice, owned by Michael Yoder, PE, actively licensed and insured. It is also the entity under which Michael's software and applied research work is held.
 
 <div class="standing" markdown="1">
 **Desert Springs Civil Engineering is not currently accepting new land development civil engineering work.**
 </div>
 
-What remains here is a record of the engineering software work: native-IFC infrastructure authoring, contributions to the upstream open-source projects that work belongs to, and applied research.
+While new design projects are no longer being accepted, this site exists as a record of the engineering software work done under Desert Springs: native-IFC infrastructure authoring, contributions to the upstream open-source projects that work belongs to, and applied research.
 
 ## The work
 {: #work }
@@ -83,13 +83,6 @@ IFC 4.3 alignments and corridors — PI-based horizontal design with tangent, ar
 
 <div class="work-item" markdown="1">
 ### Upstream contributions — IfcOpenShell and Bonsai
-
-Merged into IfcOpenShell:
-
-<ul class="refs">
-  <li><a href="https://github.com/IfcOpenShell/IfcOpenShell/pull/7897">#7897 — Anthropic Claude API support in ifcchat</a> · merged April 3, 2026</li>
-  <li><a href="https://github.com/IfcOpenShell/IfcOpenShell/pull/7904">#7904 — reduce ifcchat token usage, default to IFC4X3</a> · merged April 4, 2026</li>
-</ul>
 
 Submitted and under review:
 
@@ -108,7 +101,7 @@ Mentee, 2026 program, working on native-IFC infrastructure authoring in Bonsai.
 <div class="work-item" markdown="1">
 ### Patent-pending document reconstruction and verification
 
-A system for reconstructing and verifying engineering documents. U.S. provisional application filed July 2026. Further detail under NDA only.
+A system for reconstructing and verifying engineering drawings. U.S. provisional application filed July 2026. Further detail under NDA only.
 </div>
 
 <div class="work-item" markdown="1">
@@ -118,7 +111,7 @@ Blender, IfcOpenShell, PyProj, and the buildingSMART IFC 4.3 schema.
 </div>
 
 <div class="creds" markdown="1">
-Michael Yoder, PE · Idaho #P-17002 · B.S. Civil Engineering, Purdue University, 2010 · 14+ years · ASCE
+Michael Yoder, PE · Idaho #P-17002 · B.S. Civil Engineering, Purdue University, 2010 · 16+ years · ASCE
 </div>
 
 ## What I'll consider
