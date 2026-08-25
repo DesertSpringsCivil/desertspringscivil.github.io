@@ -62,13 +62,13 @@ excerpt: >
 ## Who we are
 {: #now }
 
-Desert Springs Civil Engineering PLLC is an Idaho professional engineering practice, owned by Michael Yoder, PE, actively licensed and insured. It is also the entity under which Michael's software and applied research work is held.
+I'm Michael Yoder, PE. Desert Springs Civil Engineering PLLC is my Idaho professional engineering practice — actively licensed and insured — and the entity under which my software and applied research work is held.
 
 <div class="standing" markdown="1">
 **Desert Springs Civil Engineering is not currently accepting new land development civil engineering work.**
 </div>
 
-While new design projects are no longer being accepted, this site exists as a record of the engineering software work done under Desert Springs: native-IFC infrastructure authoring, contributions to the upstream open-source projects that work belongs to, and applied research.
+While I'm no longer accepting new design projects, this site exists as a record of the engineering software work done under Desert Springs: native-IFC infrastructure authoring, contributions to the upstream open-source projects that work belongs to, and applied research.
 
 ## The work
 {: #work }
