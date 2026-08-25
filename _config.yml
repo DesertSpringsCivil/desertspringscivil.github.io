@@ -3,9 +3,9 @@
 locale                   : "en-US"
 title                    : "Desert Springs Civil Engineering"
 title_separator          : "—"
-subtitle                 : "Civil Engineering. Personal Service."
+subtitle                 : "Idaho PE practice · Native-IFC infrastructure software"
 name                     : "Desert Springs Civil Engineering PLLC"
-description              : "Civil and water engineering in Meridian, Idaho. 14+ years experience, direct access to your engineer, and home of Saikei Civil open-source infrastructure tools."
+description              : "Desert Springs Civil Engineering PLLC is an Idaho professional engineering practice and the entity under which native-IFC infrastructure software and applied research work is held. Not currently accepting new land development civil engineering work."
 url                      : "https://desertspringscivil.com"
 baseurl                  : ""
 repository               : "desertspringscivil/desertspringscivil.github.io"
@@ -24,9 +24,6 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/company/saikeicivil"
-    - label: "Saikei Civil"
-      icon: "fas fa-fw fa-road"
-      url: "https://saikeicivil.org"
 
 # Site Footer
 footer:
@@ -34,9 +31,6 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/company/saikeicivil"
-    - label: "Saikei Civil"
-      icon: "fas fa-fw fa-road"
-      url: "https://saikeicivil.org"
 
 # Reading Files
 include:
@@ -50,6 +44,7 @@ minimal_mistakes_skin    : "default"
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-redirect-from
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache

@@ -6,10 +6,10 @@ author_profile: false
 toc: true
 toc_label: "Contents"
 toc_icon: "file-contract"
-last_modified_at: 2025-01-01
+last_modified_at: 2026-08-24
 ---
 
-*Last Updated: January 1, 2025*
+*Last Updated: August 24, 2026*
 
 ## Agreement to Terms
 
@@ -40,7 +40,7 @@ In accordance with Idaho Code Title 54, Chapter 12 (Idaho Engineering Practice A
 
 Services described on this website are for informational purposes only. Actual scope, deliverables, fees, and terms for any engagement will be defined in a written agreement between the Company and Client prior to commencement of work.
 
-No engineer-client relationship is established by visiting this website, submitting a contact form, or engaging in preliminary discussions.
+No engineer-client relationship is established by visiting this website, contacting the Company, or engaging in preliminary discussions.
 
 ---
 
@@ -66,11 +66,11 @@ The information provided on this website is for general informational purposes o
 
 ### Website Content
 
-All content on this website, including but not limited to text, graphics, logos, images, and software, is the property of Desert Springs Civil Engineering PLLC or its content suppliers and is protected by United States and international copyright laws.
+All content on this website, including but not limited to text, graphics, logos, and images, is the property of Desert Springs Civil Engineering PLLC or its content suppliers and is protected by United States and international copyright laws.
 
 ### Saikei Civil
 
-Saikei Civil software is licensed separately under the GNU General Public License v3.0 (GPL-3.0). Visit [saikeicivil.org](https://saikeicivil.org) for licensing details.
+"Saikei Civil" is the name used for Michael Yoder's contributions extending native-IFC authoring to civil infrastructure. It is not a standalone software product distributed by the Company, and the Company neither holds nor offers exclusive rights in it. Those contributions are made to the upstream Bonsai and IfcOpenShell projects and are governed by the licenses of those projects.
 
 ### Client Work Product
 

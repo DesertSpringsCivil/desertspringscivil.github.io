@@ -6,10 +6,10 @@ author_profile: false
 toc: true
 toc_label: "Contents"
 toc_icon: "shield-alt"
-last_modified_at: 2025-01-01
+last_modified_at: 2026-08-24
 ---
 
-*Last Updated: January 1, 2025*
+*Last Updated: August 24, 2026*
 
 Desert Springs Civil Engineering PLLC ("Company," "we," "us," or "our") respects your privacy and is committed to protecting the personal information you share with us. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website desertspringscivil.com.
 
@@ -21,10 +21,8 @@ Desert Springs Civil Engineering PLLC ("Company," "we," "us," or "our") respects
 
 We may collect personal information that you voluntarily provide when you:
 
-- Fill out our contact form
 - Send us an email
-- Request a quote or proposal
-- Engage our professional services
+- Correspond with us regarding licensing, collaboration, or a professional engagement
 
 This information may include:
 
